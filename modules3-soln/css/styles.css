@@ -1,0 +1,15 @@
+#nav-bar, #nav-bar-dropdown {
+    background-color: darkblue;
+}
+#xs-deliver {
+    color: white;
+}
+div.dial {
+    color: white;
+}
+#menu {
+    font-family: 'Anton', sans-serif;
+}
+li {
+    font-family: 'Libre Baskerville', serif;
+}
